@@ -58,4 +58,4 @@ npm test
 
 The test for posts will fail ( as expected ) if the database has not been correctly setup.
 
-## TESTING  JENKINS AUTOMATION ## AGAIN dev branch ONLY 
+## TESTING  JENKINS AUTOMATION ## AGAIN dev branch ONLY BUILD WITHOUT REDELIVER
