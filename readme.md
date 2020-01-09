@@ -7,10 +7,7 @@ been committed to that branch.
 
 TEST MERGE USING JENKINS TEST TO MERGE ON GITHUB
 
-how implement devops
-what projects
-what software's do you use
-
-JENKINS TESTtttt
-=======
->>>>>>> master
+Interview Questions:
+how are you planning on implementing devops to your company
+what projects are you working on
+what is a typical work day like in your company?
