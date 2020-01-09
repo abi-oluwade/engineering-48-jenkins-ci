@@ -23,3 +23,9 @@ The above example is how we could merge a development branch we are working on
 and a master branch meant for tested working code.
 
 In the real world we never really directly work on the master branch.
+
+````
+git merge master
+````
+The above command will merge any changes on the master branch with the current dev 
+branch.
