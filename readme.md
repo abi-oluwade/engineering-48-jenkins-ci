@@ -11,3 +11,16 @@ Interview Questions:
 how are you planning on implementing devops to your company
 what projects are you working on
 what is a typical work day like in your company?
+
+# Merging dev and master branch.
+The two branches can be merged using :
+````
+git add .
+git commit -m
+git push origin dev
+git push origin dev:master
+````
+The above example is how we could merge a development branch we are working on
+and a master branch meant for tested working code.
+
+In the real world we never really directly work on the master branch.
