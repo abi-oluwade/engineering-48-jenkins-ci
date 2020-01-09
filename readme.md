@@ -5,3 +5,7 @@ the dev and master branch and had jenkins listen to only the dev branch and buil
 been committed to that branch.
 
 TEST MERGE USING JENKINS TEST TO MERGE ON GITHUB
+
+how implement devops
+what projects
+what software's do you use
