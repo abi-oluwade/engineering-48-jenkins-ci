@@ -30,4 +30,4 @@ git merge master
 The above command will merge any changes on the master branch with the current dev
 branch.
 
-NEW TEST
+NEW TEST FOR CI & CD
