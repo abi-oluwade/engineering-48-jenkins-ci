@@ -27,5 +27,7 @@ In the real world we never really directly work on the master branch.
 ````
 git merge master
 ````
-The above command will merge any changes on the master branch with the current dev 
+The above command will merge any changes on the master branch with the current dev
 branch.
+
+THIS IS TEST TEXT
