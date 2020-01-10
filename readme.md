@@ -32,4 +32,4 @@ branch.
 
 THIS IS TEST TEXT
 
-UPDATED TEST TEXT
+NEW UPDATE FOR TEXT: git push dev:master HEAD:<name of remote branch>
