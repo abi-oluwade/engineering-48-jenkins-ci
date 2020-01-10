@@ -31,3 +31,5 @@ The above command will merge any changes on the master branch with the current d
 branch.
 
 THIS IS TEST TEXT
+
+UPDATED TEST TEXT
