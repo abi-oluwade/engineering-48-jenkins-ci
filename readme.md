@@ -43,7 +43,7 @@ This means we have to know commands below such as the scp (Secure Copy) command 
 
 - scp -i ~/.ssh/Abiodun-Oluwade-Eng48-first-key.pem -r environment/ ubuntu@34.255.198.62:/home/ubuntu/ (command to copy entire folders to another machine, in this example copy environment to my AWS machine)
 
-- scp -i ~/.ssh/Abiodun-Oluwade-Eng48-first-key.pem app/provision.sh ubuntu@34.255.198.62:/home/ubuntu/provision_file.sh (command to copy a single file folder)
+- scp -i ~/.ssh/Abiodun-Oluwade-Eng48-first-key.pem app/provision.sh ubuntu@63.35.201.130:/home/ubuntu/provision_file.sh (command to copy a single file folder)
 
 - scp -o StrictHostKeyChecking='no' -r app ubuntu@54.194.15.75:/home/ubuntu/ (This command will skips the known host check and copy the app folder
   from our jenkins workspace,which is linked to our github, and copy it to our ubuntu AWS instance.)
