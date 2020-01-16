@@ -1,5 +1,6 @@
 # Jenkins
-[Simple Change] CHANGE
+[Simple Change] CHANGE to TRY pushing to master branch
+
 This Jenkins readme is located only on the 'dev' branch, we learnt how to switch between
 the dev and master branch and had Jenkins listen to only the dev branch and build when changes have
 been committed to that branch.
